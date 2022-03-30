@@ -201,17 +201,17 @@ function handleCustomCommands(command) {
       return "C'est la fête !";
     case "light":
       if (document.body.classList.length === 0)
-        return "Vous êtes déjà en mode clair";
+        return "You are already in clear mode";
       setDarkMode(false);
-      return "Vous êtes maintenant en mode clair.";
+      return "You are now in clear mode.";
     case "dark":
       if (document.body.classList.length === 1)
-        return "Vous êtes déjà en mode sombre";
+        return "You are already in dark mode";
       setDarkMode(true);
-      return "Vous êtes maintenant en mode sombre.";
+      return "You are now in dark mode.";
     case "get cv":
       getCV();
-      return "Le CV va être téléchargé.";
+      return "The CV will be downloaded.";
     case "rm -rf /":
       rmRf();
       return "w4dhIHZhIFDDiVRFUiAh";

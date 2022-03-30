@@ -89,7 +89,7 @@ Display code between `pre` tag, `value` is an array of string, each string is a 
 
 ```json
 {
-    "command": "curl https://adautry.fr/user/03101994",
+    "command": "curl https://x/03101994",
     "responseType": "code",
     "value": [
       "{",
