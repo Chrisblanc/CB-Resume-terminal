@@ -101,11 +101,13 @@
           "Smart mirror<br/>(2020)",
           "Used a spare RPi-3B with latest MagicMirror software along with Google Assistant modules.<br/> Hooked up a 24 inch VA panel monitor along with a USB sound card, USB speakers and microphone.<br/> Used an RCWL-0516 microwave sensor to turn on or off the display through HDMI-CEC based on proximity detection to save power and reduce the heat.",
           "Raspberry, MagicMirror",
+	  "x"
         ],
         [
           "School project - glass jar sorting robot <br/>(2017)",
           "autonomous mobile robot with color recognition in charge of picking up and placing in a flat area different glass jars.",
           "Step7 - Tia",
+	  "x"
         ]
       ]
     }
